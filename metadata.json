@@ -1,0 +1,8 @@
+{
+  "name": "SketchDeck Studio",
+  "description": "Presentation design and infinite hand-drawn whiteboard studio combining Canva slides, Miro collaboration boards, and Excalidraw sketching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
